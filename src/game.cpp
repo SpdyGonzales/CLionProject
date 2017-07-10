@@ -1,6 +1,3 @@
-//
-// Created by Erik Holm on 2017-07-03.
-//
 
 #include <SDL2/SDL.h>
 

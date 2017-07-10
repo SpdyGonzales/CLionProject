@@ -1,6 +1,4 @@
-//
-// Created by Erik Holm on 2017-07-03.
-//
+
 
 #ifndef CLIONPROJECT_GAME_H
 #define CLIONPROJECT_GAME_H

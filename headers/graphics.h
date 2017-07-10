@@ -1,6 +1,4 @@
-//
-// Created by Erik Holm on 2017-07-03.
-//
+
 
 #ifndef CLIONPROJECT_GRAPHICS_H
 #define CLIONPROJECT_GRAPHICS_H
