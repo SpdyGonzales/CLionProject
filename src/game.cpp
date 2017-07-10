@@ -1,5 +1,5 @@
 
-#include <SDL2/SDL.h>
+#include "SDL.h"
 
 #include "../headers/game.h"
 #include "../headers/graphics.h"
